@@ -1,0 +1,16 @@
+{
+  "name": "article-preview-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "go": "node-sass --watch ./main.scss ./style.css"
+  },
+  "keywords": [],
+  "author": "Joshua Woodson",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
